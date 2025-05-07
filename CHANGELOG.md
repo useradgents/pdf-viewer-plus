@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.0.1 - Initial Release - April 2025
+## 1.0.0 - Initial Release - April 2025
 
 * First release of the PDF Thumbnail Sidebar package
 * Features:
