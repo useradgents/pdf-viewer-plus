@@ -15,7 +15,7 @@
 Add this line to your `pubspec.yaml` file:
 ```yaml
 dependencies:
-  pdf_viewer_plus: ^0.0.1
+  pdf_viewer_plus: ^1.0.0
 ```
 
 Then, run the following command:
